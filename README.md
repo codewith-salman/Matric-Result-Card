@@ -49,7 +49,7 @@ This project represents the starting point of my frontend development journey.
 While simple, it reflects my eagerness to learn and improve step by step.
 
 Perfect for:
-- Beginners learning HTML  
+- Beginner's first step learning HTML  
 - Academic result card UI  
 - Frontend practice projects  
 - Portfolio starter projects  
