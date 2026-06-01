@@ -41,7 +41,7 @@ built using **HTML5** as my first web development project.
 
 ## 📖 About The Project
 
-<img src="Matric%20Result%20Card/image/screenshot.PNG" alt="Matric Result Card Screenshot" width="100%" />
+<img src="Matric%20Result%20Card/Image/screenshot.PNG.png" alt="Matric Result Card Screenshot" width="100%" />
 
 The **Matric Result Card** project is my **first-ever web development project**, created to practice and understand the fundamentals of **HTML structure and basic styling concepts**.
 
