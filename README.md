@@ -13,7 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
 <br />
-<br />
 
 <h2 align="center">📄 Matric Result Card</h2>
 
