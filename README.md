@@ -55,8 +55,6 @@ Perfect for:
 - Frontend practice projects  
 - Portfolio starter projects  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -67,8 +65,6 @@ Perfect for:
 - Easy to understand and modify  
 - Lightweight and fast loading  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -77,8 +73,6 @@ This project is built using:
 
 - **HTML5**
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🚀 Live Demo
@@ -86,8 +80,6 @@ This project is built using:
 You can view the live deployed project here:
 
 👉 **https://matric-result-card.vercel.app/**
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
